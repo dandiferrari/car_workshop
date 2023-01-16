@@ -34,6 +34,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+
 Then install the PHP packages.
 
 ```
