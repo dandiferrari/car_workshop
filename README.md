@@ -6,6 +6,8 @@ Documents management application based on Laravel and vue. Includes the followin
 <!-- - Mailchimp newsletter subscription
 - Sendgrid email marketing
 - Cloudinary assets upload -->
+- Entity Relationship Diagram https://drive.google.com/file/d/1nw-aUP0CrEMeV9axAjPWsffIq3RNEF_B/view?usp=sharing
+- State Machine Diagram https://drive.google.com/file/d/10qNtqzvLEQks5Eaz2My9CbszZDnQWrZ7/view?usp=sharing
 
 ## Getting Started :rocket:
 
